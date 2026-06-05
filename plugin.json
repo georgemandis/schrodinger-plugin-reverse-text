@@ -1,0 +1,11 @@
+{
+    "id": "reverse-text",
+    "name": "Reverse Text",
+    "version": "0.1.0",
+    "description": "Reverses the text on the clipboard",
+    "author": "schrodinger-community",
+    "type": "script",
+    "platforms": ["macos", "linux", "windows"],
+    "entry": "index.js",
+    "config": {}
+}
